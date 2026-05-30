@@ -1,2 +1,28 @@
-# week1-ai-assignment
-A beginner-friendly AI portfolio project showcasing AI concepts, Python programming, API integration, JSON handling, GitHub workflow, and prompt engineering skills.
+# Week 1 AI Assignment
+
+## Student Information
+Name: Akanksha
+
+## Project Overview
+This repository contains the Week 1 AI Assignment, including:
+- AI Concepts Report
+- Smart Student Assistant Python Project
+- API & JSON Task
+- Screenshots
+
+## Technologies Used
+- Python
+- JSON
+- GitHub
+- Public APIs
+
+## Files Included
+- main.py
+- api_task.py
+- tips.json
+- output.txt
+- report.pdf
+- screenshots/
+
+## Author
+Akanksha
