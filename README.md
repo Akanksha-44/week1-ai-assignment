@@ -1,7 +1,8 @@
 # Week 1 AI Assignment
 
 ## Student Information
-Name: Akanksha
+S. AKANKSHA
+ 
 
 ## Project Overview
 This repository contains the Week 1 AI Assignment, including:
@@ -24,5 +25,4 @@ This repository contains the Week 1 AI Assignment, including:
 - report.pdf
 - screenshots/
 
-## Author
-Akanksha
+
